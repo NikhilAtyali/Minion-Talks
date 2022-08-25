@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@300&display=swap');
+
+body{
+    font-family: 'Texturina',
+    serif;
+    margin: auto;
+}
+
+.input-Container{
+    text-align: center;
+    margin: 2rem;
+}
+
+
+.textArea{
+    width: 50%;
+    height: 10vh;
+    margin: auto;
+    border: 3px solid black;
+    display: block;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.output-Text{
+    font-size: larger;
+    text-align: center;
+    padding: 2rem;
+}
+
+#output{
+    width: 50%;
+    height: 10vh;
+    margin: auto;
+    border: 3px solid black;
+    display: block;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.heading-Container{
+    background-color:#FCD34D ;
+    height: 10vh;
+    padding: 1rem 0.5rem;
+    margin-bottom: 2 rem;
+}
+
+.heading{
+    text-align: center;
+}
+
+#translate-Button{
+    background-color: #FCD34D;
+    padding: 0.3rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    width: 5.6rem;
+}
+
+.btn-Container{
+    text-align: center;
+}
+
+.image-Container .image{
+    max-width: 200px;
+    margin-top: -28px;
+}
+.image-Container{
+    text-align: center;
+}
